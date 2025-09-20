@@ -1,0 +1,52 @@
+﻿namespace DesenncriptaçãoDeHexasDoRegWindowns.Mudules
+{
+	internal class AskWhichKey
+	{
+		// Pergunta e ao usuário o caminho completo da chave/valor que deseja descripitografar
+		public class AskWhichKeyClass
+		{
+			public static string AskWhichKeyMethod(string caminhoValor)
+			{
+				Console.WriteLine("Digite o caminho completo da chave/valor que deseja descripitografar:");
+				var input = Console.ReadLine();
+
+				// Verifica se o caminho é válido
+				if (string.IsNullOrWhiteSpace(input))
+				{
+					Int16 contador = 0;
+					while (contador < 3 && string.IsNullOrWhiteSpace(input))
+					{
+						Console.WriteLine("O caminho não pode ser vazio. Deseja tentar novamente? S/N");
+						string? resposta = Console.ReadLine()?.Trim().ToUpperInvariant();
+
+						if (resposta == "S")
+						{
+							Console.WriteLine("Digite o caminho completo da chave/valor que deseja descripitografar:");
+							input = Console.ReadLine();
+						}
+						else if (resposta == "N")
+						{
+							Console.WriteLine("Encerrando o programa.");
+							Environment.Exit(0);
+						}
+						else
+						{
+							Console.WriteLine("Resposta inválida. Digite S para sim ou N para não.");
+						}
+
+						contador++;
+					}
+
+					if (string.IsNullOrWhiteSpace(input))
+					{
+						Console.WriteLine("Número máximo de tentativas atingido. Encerrando o programa.");
+						Environment.Exit(1);
+					}
+				}
+
+				return input!;
+			}
+		}
+
+	}
+}

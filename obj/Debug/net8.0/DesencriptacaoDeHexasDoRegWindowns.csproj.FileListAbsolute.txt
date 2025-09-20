@@ -1,0 +1,14 @@
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\bin\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.exe
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\bin\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.deps.json
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\bin\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.runtimeconfig.json
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\bin\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.dll
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\bin\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.pdb
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.AssemblyInfoInputs.cache
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.AssemblyInfo.cs
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.csproj.CoreCompileInputs.cache
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.dll
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\refint\DesencriptacaoDeHexasDoRegWindowns.dll
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.pdb
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\DesencriptacaoDeHexasDoRegWindowns.genruntimeconfig.cache
+D:\codigos\csharp\DesenncriptaçãoDeHexasDoRegWindowns\obj\Debug\net8.0\ref\DesencriptacaoDeHexasDoRegWindowns.dll

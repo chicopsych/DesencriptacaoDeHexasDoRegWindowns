@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11012.119 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesencriptacaoDeHexasDoRegWindowns", "DesencriptacaoDeHexasDoRegWindowns.csproj", "{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A86C74-0A7A-4314-A059-0EB8BC0FF7B8}
+	EndGlobalSection
+EndGlobal
