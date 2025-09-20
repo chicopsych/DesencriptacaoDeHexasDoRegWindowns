@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Mudules\DescriptionSection\" />
+    <Compile Remove="Mudules\**" />
+    <EmbeddedResource Remove="Mudules\**" />
+    <None Remove="Mudules\**" />
   </ItemGroup>
 
 </Project>
