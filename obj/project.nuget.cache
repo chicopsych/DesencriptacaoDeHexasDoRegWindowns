@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RzLmOp1yf5E=",
+  "dgSpecHash": "rpVJZonT2ns=",
   "success": true,
-  "projectFilePath": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chico\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

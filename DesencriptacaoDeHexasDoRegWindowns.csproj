@@ -7,10 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <!-- Garantir inclusão padrão de novas pastas (SDK style já inclui por padrão) -->
+
   <ItemGroup>
-    <Compile Remove="Mudules\**" />
-    <EmbeddedResource Remove="Mudules\**" />
-    <None Remove="Mudules\**" />
+    <PackageReference Include="System.Security.Cryptography.ProtectedData" Version="8.0.0" />
   </ItemGroup>
 
 </Project>
