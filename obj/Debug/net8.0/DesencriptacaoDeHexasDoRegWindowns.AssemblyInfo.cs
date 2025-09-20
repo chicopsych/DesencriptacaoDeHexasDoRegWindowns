@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesencriptacaoDeHexasDoRegWindowns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c35c12c3c7901bc6ba60abe4edc3250d97bec93c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dd1d6172a943922aa948a530fc64cc9bd2f4a8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesencriptacaoDeHexasDoRegWindowns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesencriptacaoDeHexasDoRegWindowns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj": {}
+    "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj": {}
   },
   "projects": {
-    "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj": {
+    "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj",
+        "projectUniqueName": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj",
         "projectName": "DesencriptacaoDeHexasDoRegWindowns",
-        "projectPath": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj",
+        "projectPath": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\DesencriptacaoDeHexasDoRegWindowns.csproj",
         "packagesPath": "C:\\Users\\chico\\.nuget\\packages\\",
-        "outputPath": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\obj\\",
+        "outputPath": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\",
+  "WorkspaceRootPath": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\csharp\\desencriptacaodehexasdoregwindowns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\cli\\interactivecli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:cli\\interactivecli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\csharp\\desencriptacaodehexasdoregwindowns\\modules\\descriptionsection\\descriptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\cli\\argumentparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:cli\\argumentparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\models\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:models\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\modules\\descriptionsection\\descriptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:modules\\descriptionsection\\descriptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\csharp\\desencriptacaodehexasdoregwindowns\\modules\\showtypeandvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\modules\\askwhichkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:modules\\askwhichkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\modules\\showtypeandvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:modules\\showtypeandvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\csharp\\desencriptacaodehexasdoregwindowns\\modules\\askwhichkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:modules\\askwhichkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\services\\dpapidecryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:services\\dpapidecryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\services\\registryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:services\\registryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\utilities\\hexutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:utilities\\hexutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|d:\\codigos\\desencriptacaodehexasdoregwindowns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFD42AE-5F99-470E-A45D-7BE5753A57AF}|DesencriptacaoDeHexasDoRegWindowns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,50 +70,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AskWhichKey.cs",
-              "DocumentMoniker": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\AskWhichKey.cs",
-              "RelativeDocumentMoniker": "Modules\\AskWhichKey.cs",
-              "ToolTip": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\AskWhichKey.cs",
-              "RelativeToolTip": "Modules\\AskWhichKey.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "InteractiveCli.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Cli\\InteractiveCli.cs",
+              "RelativeDocumentMoniker": "Cli\\InteractiveCli.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Cli\\InteractiveCli.cs",
+              "RelativeToolTip": "Cli\\InteractiveCli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T18:50:46.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShowTypeAndValue.cs",
-              "DocumentMoniker": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\ShowTypeAndValue.cs",
-              "RelativeDocumentMoniker": "Modules\\ShowTypeAndValue.cs",
-              "ToolTip": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\ShowTypeAndValue.cs",
-              "RelativeToolTip": "Modules\\ShowTypeAndValue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T18:50:41.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DescriptionClass.cs",
-              "DocumentMoniker": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\DescriptionSection\\DescriptionClass.cs",
-              "RelativeDocumentMoniker": "Modules\\DescriptionSection\\DescriptionClass.cs",
-              "ToolTip": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\DescriptionSection\\DescriptionClass.cs",
-              "RelativeToolTip": "Modules\\DescriptionSection\\DescriptionClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T18:49:46.043Z",
+              "WhenOpened": "2025-09-20T20:43:00.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ArgumentParser.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Cli\\ArgumentParser.cs",
+              "RelativeDocumentMoniker": "Cli\\ArgumentParser.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Cli\\ArgumentParser.cs",
+              "RelativeToolTip": "Cli\\ArgumentParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:42:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppOptions.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Models\\AppOptions.cs",
+              "RelativeDocumentMoniker": "Models\\AppOptions.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Models\\AppOptions.cs",
+              "RelativeToolTip": "Models\\AppOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:42:49.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DescriptionClass.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\DescriptionSection\\DescriptionClass.cs",
+              "RelativeDocumentMoniker": "Modules\\DescriptionSection\\DescriptionClass.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\DescriptionSection\\DescriptionClass.cs",
+              "RelativeToolTip": "Modules\\DescriptionSection\\DescriptionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:41:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AskWhichKey.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\AskWhichKey.cs",
+              "RelativeDocumentMoniker": "Modules\\AskWhichKey.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\AskWhichKey.cs",
+              "RelativeToolTip": "Modules\\AskWhichKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:41:40.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowTypeAndValue.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\ShowTypeAndValue.cs",
+              "RelativeDocumentMoniker": "Modules\\ShowTypeAndValue.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Modules\\ShowTypeAndValue.cs",
+              "RelativeToolTip": "Modules\\ShowTypeAndValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:41:26.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DpapiDecryptionService.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Services\\DpapiDecryptionService.cs",
+              "RelativeDocumentMoniker": "Services\\DpapiDecryptionService.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Services\\DpapiDecryptionService.cs",
+              "RelativeToolTip": "Services\\DpapiDecryptionService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:41:07.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistryService.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Services\\RegistryService.cs",
+              "RelativeDocumentMoniker": "Services\\RegistryService.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Services\\RegistryService.cs",
+              "RelativeToolTip": "Services\\RegistryService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:40:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HexUtils.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Utilities\\HexUtils.cs",
+              "RelativeDocumentMoniker": "Utilities\\HexUtils.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Utilities\\HexUtils.cs",
+              "RelativeToolTip": "Utilities\\HexUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:40:44.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Program.cs",
+              "DocumentMoniker": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\codigos\\csharp\\DesencriptacaoDeHexasDoRegWindowns\\Program.cs",
+              "ToolTip": "D:\\codigos\\DesencriptacaoDeHexasDoRegWindowns\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAywF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T17:13:13.663Z",
               "EditorCaption": ""
